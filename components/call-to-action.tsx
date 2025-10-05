@@ -16,7 +16,7 @@ export function CallToAction() {
           <h2 className="font-serif text-4xl md:text-5xl lg:text-6xl text-foreground text-balance leading-tight">
             Rejoignez le cercle privé
             <br />
-            Médical Investis
+             MEDIC INVEST
           </h2>
           <div className="h-px w-24 mx-auto bg-accent" />
           <p className="text-xl md:text-2xl text-muted-foreground max-w-3xl mx-auto leading-relaxed text-pretty">

@@ -37,7 +37,7 @@ export function Hero() {
           </div>
 
           <h1 className="font-serif text-5xl md:text-7xl lg:text-8xl text-white tracking-tight text-balance leading-tight drop-shadow-2xl">
-            Médical Investis
+             MEDIC INVEST
           </h1>
           <div className="h-px w-32 mx-auto bg-accent shadow-lg shadow-accent/50" />
           <p className="text-2xl md:text-3xl lg:text-4xl text-white font-light tracking-wide text-balance leading-relaxed drop-shadow-xl">

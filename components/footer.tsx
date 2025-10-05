@@ -5,7 +5,7 @@ export function Footer() {
         <div className="max-w-6xl mx-auto">
           <div className="grid md:grid-cols-3 gap-12 mb-12">
             <div>
-              <h3 className="font-serif text-2xl md:text-3xl mb-4">Médical Investis</h3>
+              <h3 className="font-serif text-2xl md:text-3xl mb-4">MEDIC INVEST</h3>
               <p className="text-secondary-foreground/70 leading-relaxed">
                 Investissement immobilier d'exception pour professionnels de santé
               </p>
